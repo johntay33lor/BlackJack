@@ -16,8 +16,8 @@ public enum Rank {
     String rankName;
     int rankValue;
 
-    Rank(String rankName, int rankValue){
-        this.rankName = rankName;
+    Rank(String valueName, int rankValue) {
+        this.rankName = valueName;
         this.rankValue = rankValue;
     }
 
