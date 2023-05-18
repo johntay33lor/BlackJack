@@ -24,7 +24,7 @@ public class Player extends Person {
         while (getNum) {
 
             try {
-                System.out.println("Would you like to: 1) Hit or 2) Stand");
+                System.out.println("Would you like to: 1) Hit or 2) Stand ");
                 decision = input.nextInt();
                 getNum = false;
 
@@ -54,7 +54,6 @@ public class Player extends Person {
             //if they type any number other than 1, we'll assume they're standing
         } else {
             System.out.println("You stand.");
-
         }
     }
 }

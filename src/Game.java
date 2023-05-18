@@ -54,7 +54,7 @@ public class Game {
 
     }
     //This  method will handle the logic for each round
-    private void startRound() {
+    private void startRound () {
         bet =0;
 
         if(wins>0 || losses>0 || pushes > 0){

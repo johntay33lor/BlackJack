@@ -1,7 +1,7 @@
 public class Dealer extends Person{
 // create a new Dealer
 
-    public Dealer(){
+    public Dealer (){
         //Name de dealer "Dealer"
         super.setName("Dealer");
     }

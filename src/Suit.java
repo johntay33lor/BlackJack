@@ -1,6 +1,6 @@
 
 public enum Suit {
-    CLUB("Clubs"),
+    CLUB("Clubs "),
     DIAMOND("Diamonds"),
     HEART("Hearts"),
     SPADE("Spades");

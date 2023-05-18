@@ -1,7 +1,7 @@
 public class Main {
     //Starts the game
     public static void main(String[] args) {
-        System.out.println("Let's Play Blackjack!");
+        System.out.println("Let's Play Blackjack! ");
 //        Start a new game.
         Game blackjack = new Game();
 //        Suit class test print "Clubs" System.out.println(Suit.CLUB);

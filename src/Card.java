@@ -13,7 +13,7 @@ public class Card {
 
     //Generate getters
     public int getValue() {
-        return rank.rankValue;
+        return rank.rankValue ;
     }
     public Suit getSuit() {
         return suit;

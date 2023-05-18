@@ -92,7 +92,7 @@ public class Deck {
 
     //return the arraylist containing all the cards in this deck
 
-    public ArrayList<Card> getCards() {
+    public ArrayList<Card> getCards () {
         return deck;
     }
 

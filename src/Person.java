@@ -36,7 +36,7 @@ public abstract class Person {
     }
     //Prints a formatted version of the Person's hand
     public void printHand(){
-        System.out.println(this.name + "'s hand looks like this:");
+        System.out.println(this.name + "'s hand looks like this: ");
         System.out.println(this.hand + " Valued at: " + this.hand.calculatedValue());
     }
 
